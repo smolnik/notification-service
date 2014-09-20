@@ -1,4 +1,4 @@
-package net.adamsmolnik.setup.detection;
+package net.adamsmolnik.setup.notification;
 
 import java.util.HashSet;
 import java.util.Set;

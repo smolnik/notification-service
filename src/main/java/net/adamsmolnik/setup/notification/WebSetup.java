@@ -1,4 +1,4 @@
-package net.adamsmolnik.setup.detection;
+package net.adamsmolnik.setup.notification;
 
 import javax.inject.Inject;
 import javax.servlet.ServletContextEvent;
